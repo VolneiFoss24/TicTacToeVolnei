@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hass</string>
+    <string name="nd">null</string>
+    <string name="reset">Reset</string>
+</resources>
